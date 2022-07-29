@@ -1,3 +1,6 @@
+# Credit to u/zdmit @ reddit for this script.
+
+
 import requests, json, re
 from parsel import Selector
 
